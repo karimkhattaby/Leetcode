@@ -1,5 +1,5 @@
 # Leetcode
-My solutions for different leetcode questions.
+My solutions for different leetcode questions in Python.
 
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
