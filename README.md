@@ -6,4 +6,7 @@ This repo includes solutions for different leetcode questions I have solved, div
 Each folder is also divided into the category of the question (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.
 
 ## Problems
-392. [Is Subsequence](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Is%20Subsequence.py)
+Here's a table with all questions available in this repo for easy access. The table will be updated every time I upload a new solution.
+| ID | Problem Name | Difficulty | Problem Link | Solution Link |
+| :---: | :-----------: | :---: | :---: | :---: |
+| 392 | Is Subsequence | easy | [Problem](https://leetcode.com/problems/is-subsequence) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Is%20Subsequence.py)
