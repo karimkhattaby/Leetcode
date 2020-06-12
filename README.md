@@ -11,3 +11,4 @@ Here's a table with all questions available in this repo for easy access. The ta
 | :---: | :-----------: | :---: | :---: | :---: |
 | 392 | Is Subsequence | easy | [Problem](https://leetcode.com/problems/is-subsequence) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Is%20Subsequence.py)
 | 35 | Search Insert Position | easy | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Binary%20Search/Search%20Insert%20Position.py)
+| 380 | Insert Delete GetRandom O(1) | medium | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/OOD/Insert%20Delete%20GetRandom%20O%281%29.py)
