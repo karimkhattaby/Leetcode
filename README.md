@@ -16,3 +16,4 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 567 | Permutation in String | medium | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Strings/Permutation%20in%20String.py)
 | 48 | Rotate Image | medium | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Rotate%20Image.py)
 | 73 | Set Matrix Zeroes | medium | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Set%20Matrix%20Zeroes.py)
+| 344 | Reverse String | easy | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20String.py)
