@@ -7,7 +7,7 @@ Each folder is also divided into questions categories (i.e. Trees, Graphs, etc).
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I upload a new solution.<br><br>
-The table currently includes 17 problems.
+The table currently includes 18 problems.
 
 | ID | Problem Name | Difficulty | Problem Link | Solution Link |
 | :---: | :-----------: | :---: | :---: | :---: |
@@ -28,3 +28,4 @@ The table currently includes 17 problems.
 | 283 | Move Zeroes | easy | [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Move%20Zeroes.py)
 | 108 | Convert Sorted Array to Binary Search Tree | easy | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
 | 242 | Valid Anagram | easy | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Valid%20Anagram.py)
+| 217 | Contains Duplicate | easy | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Contains%20Duplicate.py)
