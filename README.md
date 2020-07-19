@@ -20,3 +20,4 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 104 | Maximum Depth of Binary Tree | easy | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Maximum%20Depth%20of%20Binary%20Tree.py)
 | 136 | Single Number | easy | [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Single%20Number.py)
 | 237 | Delete Node in a Linked List | easy | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Delete%20Node%20in%20a%20Linked%20List.py)
+| 412 | Fizz Buzz | easy | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Fizz%20Buzz.py)
