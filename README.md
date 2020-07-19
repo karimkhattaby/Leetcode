@@ -22,3 +22,4 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 237 | Delete Node in a Linked List | easy | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Delete%20Node%20in%20a%20Linked%20List.py)
 | 412 | Fizz Buzz | easy | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Fizz%20Buzz.py)
 | 206 | Reverse Linked List | easy | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Reverse%20Linked%20List.py)
+| 169 | Majority Element | easy | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Majority%20Element.py)
