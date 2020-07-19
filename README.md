@@ -18,3 +18,4 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 73 | Set Matrix Zeroes | medium | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Set%20Matrix%20Zeroes.py)
 | 344 | Reverse String | easy | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20String.py)
 | 104 | Maximum Depth of Binary Tree | easy | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Maximum%20Depth%20of%20Binary%20Tree.py)
+| 136 | Single Number | easy | [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Single%20Number.py)
