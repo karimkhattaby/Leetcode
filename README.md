@@ -6,8 +6,8 @@ This repo includes solutions for different leetcode questions I have solved, div
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.
 
 ## Problems
-Here's a table with all questions available in this repo for easy access. The table will be updated every time I upload a new solution.<br><br>
-The table currently includes 18 problems.
+Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br><br>
+The repo currently includes 19 problems.
 
 | ID | Problem Name | Difficulty | Problem Link | Solution Link |
 | :---: | :-----------: | :---: | :---: | :---: |
@@ -29,3 +29,4 @@ The table currently includes 18 problems.
 | 108 | Convert Sorted Array to Binary Search Tree | easy | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
 | 242 | Valid Anagram | easy | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Valid%20Anagram.py)
 | 217 | Contains Duplicate | easy | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Contains%20Duplicate.py)
+| 122 | Best Time to Buy and Sell Stock II | easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)
