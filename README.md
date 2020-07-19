@@ -7,7 +7,7 @@ Each folder is also divided into questions categories (i.e. Trees, Graphs, etc).
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I upload a new solution.<br><br>
-The table currently includes 14 problems
+The table currently includes 15 problems.
 
 | ID | Problem Name | Difficulty | Problem Link | Solution Link |
 | :---: | :-----------: | :---: | :---: | :---: |
@@ -25,3 +25,4 @@ The table currently includes 14 problems
 | 412 | Fizz Buzz | easy | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Fizz%20Buzz.py)
 | 206 | Reverse Linked List | easy | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Reverse%20Linked%20List.py)
 | 169 | Majority Element | easy | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Majority%20Element.py)
+| 283 | Move Zeroes | easy | [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Move%20Zeroes.py)
