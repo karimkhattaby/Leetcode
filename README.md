@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 24 problems.
+The repo currently includes 25 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -27,6 +27,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 217 | Contains Duplicate | easy | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Contains%20Duplicate.py)
 | 237 | Delete Node in a Linked List | easy | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Delete%20Node%20in%20a%20Linked%20List.py)
 | 242 | Valid Anagram | easy | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Valid%20Anagram.py)
+| 268 | Missing Number | easy | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Missing%20Number.py)
 | 283 | Move Zeroes | easy | [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Move%20Zeroes.py)
 | 344 | Reverse String | easy | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20String.py)
 | 380 | Insert Delete GetRandom O(1) | medium | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/OOD/Insert%20Delete%20GetRandom%20O%281%29.py)
