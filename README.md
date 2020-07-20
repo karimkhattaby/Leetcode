@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 20 problems.
+The repo currently includes 21 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -20,6 +20,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 122 | Best Time to Buy and Sell Stock II | easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)
 | 136 | Single Number | easy | [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Single%20Number.py)
 | 169 | Majority Element | easy | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Majority%20Element.py)
+| 171 | Excel Sheet Column Number | easy | [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Excel%20Sheet%20Column%20Number.py)
 | 206 | Reverse Linked List | easy | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Reverse%20Linked%20List.py)
 | 217 | Contains Duplicate | easy | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Contains%20Duplicate.py)
 | 237 | Delete Node in a Linked List | easy | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Delete%20Node%20in%20a%20Linked%20List.py)
