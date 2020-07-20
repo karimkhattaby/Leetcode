@@ -4,13 +4,14 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 19 problems.
+The repo currently includes 20 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
 
 | ID | Problem Name | Difficulty | Problem Link | Solution Link |
 | :---: | :-----------: | :---: | :---: | :---: |
+| 13 | Roman to Integer | easy | [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Roman%20to%20Integer.py)
 | 35 | Search Insert Position | easy | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Binary%20Search/Search%20Insert%20Position.py)
 | 48 | Rotate Image | medium | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Rotate%20Image.py)
 | 73 | Set Matrix Zeroes | medium | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Set%20Matrix%20Zeroes.py)
