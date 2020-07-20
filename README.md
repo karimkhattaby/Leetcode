@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 21 problems.
+The repo currently includes 22 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -28,6 +28,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 283 | Move Zeroes | easy | [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Move%20Zeroes.py)
 | 344 | Reverse String | easy | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20String.py)
 | 380 | Insert Delete GetRandom O(1) | medium | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/OOD/Insert%20Delete%20GetRandom%20O%281%29.py)
+| 387 | First Unique Character in a String | easy | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/First%20Unique%20Character%20in%20a%20String.py)
 | 392 | Is Subsequence | easy | [Problem](https://leetcode.com/problems/is-subsequence) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Is%20Subsequence.py)
 | 412 | Fizz Buzz | easy | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Fizz%20Buzz.py)
 | 567 | Permutation in String | medium | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Strings/Permutation%20in%20String.py)
