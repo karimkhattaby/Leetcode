@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 27 problems.
+The repo currently includes 28 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -19,6 +19,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 104 | Maximum Depth of Binary Tree | easy | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Maximum%20Depth%20of%20Binary%20Tree.py)
 | 108 | Convert Sorted Array to Binary Search Tree | easy | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
 | 118 | Pascal's Triangle | easy | [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Pascal%27s%20Triangle.py)
+| 121 | Best Time to Buy and Sell Stock | easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 | 122 | Best Time to Buy and Sell Stock II | easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)
 | 136 | Single Number | easy | [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Single%20Number.py)
 | 169 | Majority Element | easy | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Majority%20Element.py)
