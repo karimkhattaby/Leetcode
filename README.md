@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 29 problems.
+The repo currently includes 30 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -24,6 +24,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 136 | Single Number | easy | [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Single%20Number.py)
 | 169 | Majority Element | easy | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Majority%20Element.py)
 | 171 | Excel Sheet Column Number | easy | [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Excel%20Sheet%20Column%20Number.py)
+| 191 | Number of 1 Bits | easy | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Bit%20Manipulation/Number%20of%201%20Bits.py)
 | 202 | Happy Number | easy | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Hash%20Tables/Happy%20Number.py)
 | 206 | Reverse Linked List | easy | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Reverse%20Linked%20List.py)
 | 217 | Contains Duplicate | easy | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Contains%20Duplicate.py)
