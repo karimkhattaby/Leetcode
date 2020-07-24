@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 38 problems.
+The repo currently includes 39 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -40,6 +40,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 242 | Valid Anagram | easy | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Valid%20Anagram.py)
 | 268 | Missing Number | easy | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Missing%20Number.py)
 | 283 | Move Zeroes | easy | [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Move%20Zeroes.py)
+| 326 | Power of Three | easy | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Math/Power%20of%20Three.py)
 | 344 | Reverse String | easy | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20String.py)
 | 350 | Intersection of Two Arrays II | easy | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Intersection%20of%20Two%20Arrays%20II.py)
 | 371 | Sum of Two Integers | easy | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Bit%20Manipulation/Sum%20of%20Two%20Integers.py)
