@@ -11,6 +11,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 
 | ID | Problem Name | Difficulty | Problem Link | Solution Link |
 | :---: | :-----------: | :---: | :---: | :---: |
+| 1 | Two Sum | easy | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Hash%20Tables/Two%20Sum.py)
 | 13 | Roman to Integer | easy | [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Roman%20to%20Integer.py)
 | 21 | Merge Two Sorted Lists | easy | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Merge%20Two%20Sorted%20Lists.py)
 | 35 | Search Insert Position | easy | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Binary%20Search/Search%20Insert%20Position.py)
