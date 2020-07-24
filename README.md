@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 35 problems.
+The repo currently includes 36 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -16,6 +16,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 21 | Merge Two Sorted Lists | easy | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Merge%20Two%20Sorted%20Lists.py)
 | 26 | Remove Duplicates from Sorted Array | easy | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Remove%20Duplicates%20from%20Sorted%20Array.py)
 | 35 | Search Insert Position | easy | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Binary%20Search/Search%20Insert%20Position.py)
+| 38 | Count and Say | easy | [Problem](https://leetcode.com/problems/count-and-say/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Count%20and%20Say.py)
 | 48 | Rotate Image | medium | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Rotate%20Image.py)
 | 53 | Maximum Subarray | easy | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Maximum%20Subarray.py)
 | 70 | Climbing Stairs | easy | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Climbing%20Stairs.py)
