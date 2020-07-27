@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 42 problems.
+The repo currently includes 43 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -34,6 +34,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 160 | Intersection of Two Linked Lists | easy | [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Intersection%20of%20Two%20Linked%20Lists.py)
 | 169 | Majority Element | easy | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Majority%20Element.py)
 | 171 | Excel Sheet Column Number | easy | [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Excel%20Sheet%20Column%20Number.py)
+| 190 | Reverse Bits | easy | [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Bit%20Manipulation/Reverse%20Bits.py)
 | 191 | Number of 1 Bits | easy | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Bit%20Manipulation/Number%20of%201%20Bits.py)
 | 198 | House Robber | easy | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/House%20Robber.py)
 | 202 | Happy Number | easy | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Hash%20Tables/Happy%20Number.py)
