@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 47 problems.
+The repo currently includes 48 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -30,6 +30,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 118 | Pascal's Triangle | easy | [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Pascal%27s%20Triangle.py)
 | 121 | Best Time to Buy and Sell Stock | easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 | 122 | Best Time to Buy and Sell Stock II | easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Greedy/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)
+| 125 | Valid Palindrome | easy | [Problem](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Valid%20Palindrome.py)
 | 136 | Single Number | easy | [Problem](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Single%20Number.py)
 | 141 | Linked List Cycle | easy | [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Linked%20List%20Cycle.py)
 | 155 | Min Stack | easy | [Problem](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/OOD/Min%20Stack.py)
