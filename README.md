@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 51 problems.
+The repo currently includes 52 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -23,6 +23,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 48 | Rotate Image | medium | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Rotate%20Image.py)
 | 53 | Maximum Subarray | easy | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Maximum%20Subarray.py)
 | 66 | Plus One | easy | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Plus%20One.py)
+| 69 | Sqrt(x) | easy | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Math/Sqrtx.py)
 | 70 | Climbing Stairs | easy | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Climbing%20Stairs.py)
 | 73 | Set Matrix Zeroes | medium | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Set%20Matrix%20Zeroes.py)
 | 88 | Merge Sorted Array | easy | [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Merge%20Sorted%20Array.py)
