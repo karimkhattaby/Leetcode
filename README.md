@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 49 problems.
+The repo currently includes 50 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -39,6 +39,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 169 | Majority Element | easy | [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Majority%20Element.py)
 | 171 | Excel Sheet Column Number | easy | [Problem](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Excel%20Sheet%20Column%20Number.py)
 | 172 | Factorial Trailing Zeroes | easy | [Problem](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Math/Factorial%20Trailing%20Zeroes.py)
+| 189 | Rotate Array | easy | [Problem](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Rotate%20Array.py)
 | 190 | Reverse Bits | easy | [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Bit%20Manipulation/Reverse%20Bits.py)
 | 191 | Number of 1 Bits | easy | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Bit%20Manipulation/Number%20of%201%20Bits.py)
 | 198 | House Robber | easy | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/House%20Robber.py)
