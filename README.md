@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 60 problems.
+The repo currently includes 61 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -30,6 +30,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 69 | Sqrt(x) | easy | [Problem](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Math/Sqrtx.py)
 | 70 | Climbing Stairs | easy | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Climbing%20Stairs.py)
 | 73 | Set Matrix Zeroes | medium | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Set%20Matrix%20Zeroes.py)
+| 78 | Subsets | medium | [Problem](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Backtracking/Subsets.py)
 | 88 | Merge Sorted Array | easy | [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Merge%20Sorted%20Array.py)
 | 94 | Binary Tree Inorder Traversal | Medium | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Trees/Binary%20Tree%20Inorder%20Traversal.py)
 | 101 | Symmetric Tree | easy | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Symmetric%20Tree.py)
