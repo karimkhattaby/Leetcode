@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 61 problems.
+The repo currently includes 62 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -62,6 +62,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 283 | Move Zeroes | easy | [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Move%20Zeroes.py)
 | 326 | Power of Three | easy | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Math/Power%20of%20Three.py)
 | 344 | Reverse String | easy | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20String.py)
+| 347 | Top K Frequent Elements | medium | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Heaps/Top%20K%20Frequent%20Elements.py)
 | 350 | Intersection of Two Arrays II | easy | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Intersection%20of%20Two%20Arrays%20II.py)
 | 371 | Sum of Two Integers | medium | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Bit%20Manipulation/Sum%20of%20Two%20Integers.py)
 | 380 | Insert Delete GetRandom O(1) | medium | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/OOD/Insert%20Delete%20GetRandom%20O%281%29.py)
