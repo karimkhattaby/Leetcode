@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 56 problems.
+The repo currently includes 57 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -64,6 +64,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 387 | First Unique Character in a String | easy | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/First%20Unique%20Character%20in%20a%20String.py)
 | 392 | Is Subsequence | easy | [Problem](https://leetcode.com/problems/is-subsequence) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Is%20Subsequence.py)
 | 412 | Fizz Buzz | easy | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Fizz%20Buzz.py)
+| 520 | Detect Capital | easy | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Detect%20Capital.py)
 | 567 | Permutation in String | medium | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Strings/Permutation%20in%20String.py)
 | 700 | Search in a Binary Search Tree | easy | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Search%20in%20a%20BST.py)
 | 1346 | Check If N and Its Double Exist | easy | [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Hash%20Tables/Check%20If%20N%20and%20Its%20Double%20Exist.py)
