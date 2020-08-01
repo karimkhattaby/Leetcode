@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 59 problems.
+The repo currently includes 60 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -17,6 +17,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 14 | Longest Common Prefix | easy | [Problem](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Longest%20Common%20Prefix.py)
 | 20 | Valid Parentheses | easy | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Valid%20Parentheses.py)
 | 21 | Merge Two Sorted Lists | easy | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Merge%20Two%20Sorted%20Lists.py)
+| 22 | Generate Parentheses | medium | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Backtracking/Generate%20Parentheses.py)
 | 26 | Remove Duplicates from Sorted Array | easy | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Remove%20Duplicates%20from%20Sorted%20Array.py)
 | 27 | Remove Element | easy | [Problem](https://leetcode.com/problems/remove-element/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Remove%20Element.py)
 | 28 | Implement strStr() | easy | [Problem](https://leetcode.com/problems/implement-strstr/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Implement%20strStr.py)
