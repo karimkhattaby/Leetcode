@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 58 problems.
+The repo currently includes 59 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -30,6 +30,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 70 | Climbing Stairs | easy | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Climbing%20Stairs.py)
 | 73 | Set Matrix Zeroes | medium | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Set%20Matrix%20Zeroes.py)
 | 88 | Merge Sorted Array | easy | [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Merge%20Sorted%20Array.py)
+| 94 | Binary Tree Inorder Traversal | Medium | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Trees/Binary%20Tree%20Inorder%20Traversal.py)
 | 101 | Symmetric Tree | easy | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Symmetric%20Tree.py)
 | 104 | Maximum Depth of Binary Tree | easy | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Maximum%20Depth%20of%20Binary%20Tree.py)
 | 108 | Convert Sorted Array to Binary Search Tree | easy | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
