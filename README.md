@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 66 problems.
+The repo currently includes 67 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -56,6 +56,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 204 | Count Primes | easy | [Problem](https://leetcode.com/problems/count-primes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Math/Count%20Primes.py)
 | 206 | Reverse Linked List | easy | [Problem](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Reverse%20Linked%20List.py)
 | 217 | Contains Duplicate | easy | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Contains%20Duplicate.py)
+| 230 | Kth Smallest Element in a BST | medium | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/BST/Kth%20Smallest%20Element%20in%20a%20BST.py)
 | 234 | Palindrome Linked List | easy | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Palindrome%20Linked%20List.py)
 | 237 | Delete Node in a Linked List | easy | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Linked%20Lists/Delete%20Node%20in%20a%20Linked%20List.py)
 | 238 | Product of Array Except Self | medium | [Problem](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Product%20of%20Array%20Except%20Self.py)
