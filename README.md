@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 62 problems.
+The repo currently includes 63 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -72,4 +72,5 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 520 | Detect Capital | easy | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Detect%20Capital.py)
 | 567 | Permutation in String | medium | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Strings/Permutation%20in%20String.py)
 | 700 | Search in a Binary Search Tree | easy | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Search%20in%20a%20BST.py)
+| 705 | Design HashSet | easy | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/OOD/Design%20HashSet.py)
 | 1346 | Check If N and Its Double Exist | easy | [Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Hash%20Tables/Check%20If%20N%20and%20Its%20Double%20Exist.py)
