@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 68 problems.
+The repo currently includes 69 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -63,6 +63,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 242 | Valid Anagram | easy | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Valid%20Anagram.py)
 | 268 | Missing Number | easy | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Missing%20Number.py)
 | 283 | Move Zeroes | easy | [Problem](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/2%20pointers/Move%20Zeroes.py)
+| 287 | Find the Duplicate Number | medium | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/Find%20the%20Duplicate%20Number.py)
 | 326 | Power of Three | easy | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Math/Power%20of%20Three.py)
 | 328 | Odd Even Linked List | medium | [Problem](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Linked%20Lists/Odd%20Even%20Linked%20List.py)
 | 344 | Reverse String | easy | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20String.py)
