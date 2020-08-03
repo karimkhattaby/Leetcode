@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 70 problems.
+The repo currently includes 71 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -35,6 +35,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 88 | Merge Sorted Array | easy | [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Merge%20Sorted%20Array.py)
 | 94 | Binary Tree Inorder Traversal | Medium | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Trees/Binary%20Tree%20Inorder%20Traversal.py)
 | 101 | Symmetric Tree | easy | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Symmetric%20Tree.py)
+| 102 | Binary Tree Level Order Traversal | medium | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Trees/Binary%20Tree%20Level%20Order%20Traversal.py)
 | 104 | Maximum Depth of Binary Tree | easy | [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Trees/Maximum%20Depth%20of%20Binary%20Tree.py)
 | 108 | Convert Sorted Array to Binary Search Tree | easy | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)
 | 118 | Pascal's Triangle | easy | [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/DP/Pascal%27s%20Triangle.py)
