@@ -4,7 +4,7 @@ My solutions for different leetcode questions in Python.
 ## Overview
 This repo includes solutions for different leetcode questions I have solved, divided into easy, medium and hard.  
 Each folder is also divided into questions categories (i.e. Trees, Graphs, etc). More categories will be added as I solve more questions.<br><br>
-The repo currently includes 77 problems.
+The repo currently includes 78 problems.
 
 ## Problems
 Here's a table with all questions available in this repo for easy access. The table will be updated every time I commit a new solution.<br>
@@ -83,6 +83,7 @@ Here's a table with all questions available in this repo for easy access. The ta
 | 412 | Fizz Buzz | easy | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Arrays/Fizz%20Buzz.py)
 | 454 | 4Sum II | medium | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Arrays/4Sum%20II.py)
 | 520 | Detect Capital | easy | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Detect%20Capital.py)
+| 557 | Reverse Words in a String III | easy | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/Strings/Reverse%20Words%20in%20a%20String%20III.py)
 | 567 | Permutation in String | medium | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/medium/Strings/Permutation%20in%20String.py)
 | 700 | Search in a Binary Search Tree | easy | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/BST/Search%20in%20a%20BST.py)
 | 705 | Design HashSet | easy | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](https://github.com/karimkhattaby/Leetcode/blob/master/easy/OOD/Design%20HashSet.py)
